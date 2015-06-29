@@ -1,0 +1,22 @@
+OP Post no. 2 for FAQs and other stuff
+
+For example -
+
+
+[CENTER][SIZE="6"][FONT="Century Gothic"]F.A.Q.[/FONT][/SIZE][/CENTER]
+
+[B]What is the difference between AOSP and Minimal OS ?[/B]
+We have integrated the follow features in AOSP :
+[LIST]
+[*]List of major differences between AOSP and Minimal OS
+[*]Item no. whatever
+[/LIST]
+plus some hardware and development stuff.
+
+
+[B]Why don't you keep it pure AOSP ?[/B]
+Because our goal is to provide a user friendly and clean ROM. We chose these applications because they are opensource and advertisement free.
+
+
+[B]Feature X is not working or applications Y is force closed, what can I do ?[/B]
+Usually this kind of problem is due to dirty installation. Please wipe data, cache and dalvik cache.

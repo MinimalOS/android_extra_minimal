@@ -1,0 +1,59 @@
+XDA Forum template -
+
+For example - 
+
+
+Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
+
+
+[INDENT][INDENT][FLOATLEFT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/foo/foo.png[/IMG][/FLOATLEFT][/INDENT][/INDENT]
+
+
+
+[INDENT][INDENT][INDENT][SIZE="5"][I]MinimalOS[/I][/SIZE][/INDENT][/INDENT][/INDENT]
+
+
+[B]Disclaimer:[/B][CODE]
+/*
+ * Your warranty is now void.
+ *
+ * We are not responsible for bricked devices, dead SD cards, thermonuclear
+ * war, or you getting fired because the alarm app failed. Please do some 
+ * research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at us for messing up your device, we will laugh at you.
+ *
+ */[/CODE]
+
+[B]Download:[/B] Link to ROM
+
+[B]How to install:[/B]
+[LIST=1]
+[*] Download the ROM
+[*] Extract boot.img and flash it
+[*] Copy the ROM to your SD Card
+[*] Boot into recovery
+[*] Install the ROM
+[*] Wipe data, cache and dalvik cache
+[*] Reboot
+[/LIST]
+
+[B] Screenshots: [/B]
+[HIDE]
+[IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_minimal/master/Screenshots/foo.png[/IMG]
+[IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_minimal/master/Screenshots/foo.png[/IMG]
+[/HIDE]
+
+[B]Changelog:[/B] [URL="https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_minimal/master/TODO.txt"]TODO.txt[/URL]
+
+[B]Sources:[/B] [URL="https://github.com/AndroidOpenSourceXperia"]https://github.com/MinimalOS[/URL]
+
+[B]Contributors:[/B]
+List of team members
+
+[B]Credits:[/B]
+[LIST]
+[*] [URL="https://source.android.com/"]Android Open Source Project[/URL] for Android code.
+[*] [URL="http://www.cyanogenmod.org/"]CyanogenMod[/URL] and [URL="https://omnirom.org/"]OmniROM[/URL] for providing bugfixes and features.
+[*] All developers that helped us with their code.
+[/LIST] 

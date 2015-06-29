@@ -1,0 +1,12 @@
+As the name suggests.
+
+For example -
+
+RELEASE TODO:
+
+-Add notification ticker (Easy) => Done
+-Add Heads-up from Silm (Hard) => Done 
+-Add Advanced Reboot (Mid) => Done
+-Fix default wallpaper resolutions (Easy) => Done
+-Remove weather from nitifications (Mid)
+--Build v1 (DDMMYY)
