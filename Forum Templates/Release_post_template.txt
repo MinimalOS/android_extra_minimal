@@ -6,7 +6,7 @@ For example -
 Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
 
 
-[CENTER][INDENT][INDENT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/0eeff4e955aca2c8f8740731687c3943e0a3a2f2/PNGs/xda-header.png[/IMG][/INDENT][/INDENT]
+[CENTER][INDENT][INDENT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/PNGs/xda-header.png[/IMG][/INDENT][/INDENT]
 
 
 [B]Disclaimer:[/B]
