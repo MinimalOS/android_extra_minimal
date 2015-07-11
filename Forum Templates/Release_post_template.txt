@@ -68,7 +68,6 @@ LED Notification Customization.
 [B]How to install:[/B]
 
 Download the ROM
-Extract boot.img and flash it
 Copy the ROM to your SD Card
 Boot into recovery
 Install the ROM
