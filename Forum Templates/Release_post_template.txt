@@ -6,7 +6,7 @@ For example -
 Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
 
 
-[CENTER][INDENT][INDENT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/PNGs/xda-header.png[/IMG][/INDENT][/INDENT]
+[CENTER][INDENT][INDENT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/0eeff4e955aca2c8f8740731687c3943e0a3a2f2/PNGs/xda-header.png[/IMG][/INDENT][/INDENT]
 
 
 [B]Disclaimer:[/B]
@@ -23,7 +23,47 @@ Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
  */
 [/CODE]
 
-[B]Download:[/B] Link to ROM
+[B]Features:[/B]
+
+Memory leak fixes and other fixes from AOSP.
+Layers 2.1 Support [Latest].
+Notification Ticker.
+Statusbar Brightness Control.
+Show Notification Count.
+Double-tap Statubar or Navbar to sleep.
+Clock Customization [Left,Center,Right].
+Headsup Swipe.
+Battery Status Style.
+Privacy Guard.
+Blacklist.
+Filter Notifications.
+Smart Call.
+Smart Mute.
+Detailed Caller Information.
+Phone Number Lookup.
+Quick Pin Unlock.
+Gesture Unlock.
+Quick Settings.
+Quick Pulldown.
+Show Weather [It will be removed soon].
+Ability to disable Heads up.
+Force Expanded Notification.
+Advanced Reboot.
+Screen Record.
+Clear All Recents [Top right, Top left, Top center, Bottom right, Bottom left, Bottom center].
+Show Search Bar in Recents Menu.
+LCD Density.
+Navbar Customization.
+Navrings Customization.
+Re-Orient Volume Buttons.
+Expanded Desktop.
+Ambient Display Customization.
+Silent Mode.
+Battery Light Customization.
+LED Notification Customization.
+
+[B]Download:[/B] 
+[URL="ANDROIDFILEHOST URL OF YOUR ZIP"]CLICK HERE[/URL]
 
 [B]How to install:[/B]
 
@@ -56,6 +96,9 @@ Reboot
 [/HIDE]
 
 [B]Changelog:[/B] 
+[CODE]
+* Initial Release.
+[/CODE]
 
 
 [B]Sources:[/B] [URL="https://github.com/MinimalOS"]MinimalOS Github[/URL]
@@ -65,7 +108,7 @@ Reboot
 @Kr3acher - Contributor
 @dark-falcon - Contributor
 @Bgill55 - Contributor
-@MAINTAINER'S USERNAME - Maintainer
+@Maintainer's username - Maintainer
 
 [B]Credits:[/B]
 [URL="https://source.android.com/"]Android Open Source Project.[/URL].
