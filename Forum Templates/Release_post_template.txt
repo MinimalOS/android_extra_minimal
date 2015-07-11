@@ -6,14 +6,11 @@ For example -
 Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
 
 
-[INDENT][INDENT][FLOATLEFT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/foo/foo.png[/IMG][/FLOATLEFT][/INDENT][/INDENT]
+[CENTER][INDENT][INDENT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/0eeff4e955aca2c8f8740731687c3943e0a3a2f2/PNGs/xda-header.png[/IMG][/INDENT][/INDENT]
 
 
-
-[INDENT][INDENT][INDENT][SIZE="5"][I]MinimalOS[/I][/SIZE][/INDENT][/INDENT][/INDENT]
-
-
-[B]Disclaimer:[/B][CODE]
+[B]Disclaimer:[/B]
+[CODE]
 /*
  * Your warranty is now void.
  *
@@ -23,37 +20,57 @@ Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
  * before flashing it! YOU are choosing to make these modifications, and if
  * you point the finger at us for messing up your device, we will laugh at you.
  *
- */[/CODE]
+ */
+[/CODE]
 
 [B]Download:[/B] Link to ROM
 
 [B]How to install:[/B]
-[LIST=1]
-[*] Download the ROM
-[*] Extract boot.img and flash it
-[*] Copy the ROM to your SD Card
-[*] Boot into recovery
-[*] Install the ROM
-[*] Wipe data, cache and dalvik cache
-[*] Reboot
-[/LIST]
+
+Download the ROM
+Extract boot.img and flash it
+Copy the ROM to your SD Card
+Boot into recovery
+Install the ROM
+Wipe data, cache and dalvik cache
+Reboot
 
 [B] Screenshots: [/B]
 [HIDE]
-[IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_minimal/master/Screenshots/foo.png[/IMG]
-[IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_minimal/master/Screenshots/foo.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/1.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/2.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/3.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/4.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/5.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/6.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/7.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/8.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/9.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/10.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/11.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/12.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/13.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/14.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/15.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/16.png[/IMG]
 [/HIDE]
 
-[B]Changelog:[/B] [URL="https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_minimal/master/TODO.txt"]TODO.txt[/URL]
+[B]Changelog:[/B] 
 
-[B]Sources:[/B] [URL="https://github.com/AndroidOpenSourceXperia"]https://github.com/MinimalOS[/URL]
+
+[B]Sources:[/B] [URL="https://github.com/MinimalOS"]MinimalOS Github[/URL]
 
 [B]Contributors:[/B]
-List of team members
+@CallMeAldy - Lead Developer
+@Kr3acher - Contributor
+@dark-falcon - Contributor
+@Bgill55 - Contributor
+@MAINTAINER'S USERNAME - Maintainer
 
 [B]Credits:[/B]
-[LIST]
-[*] [URL="https://source.android.com/"]Android Open Source Project[/URL] for Android code.
-[*] [URL="http://www.cyanogenmod.org/"]CyanogenMod[/URL] and [URL="https://omnirom.org/"]OmniROM[/URL] for providing bugfixes and features.
-[*] All developers that helped us with their code.
-[/LIST] 
+[URL="https://source.android.com/"]Android Open Source Project.[/URL].
+[URL="http://www.cyanogenmod.org/"]CyanogenMod.[/URL]
+[URL="http://github.com/TeamHorizon/"]XenonHD.[/URL]
+[URL="https://github.com/crdroidandroid/"]CrDroid.[/URL]
+All developers that helped us with their code.
+[/CENTER]
