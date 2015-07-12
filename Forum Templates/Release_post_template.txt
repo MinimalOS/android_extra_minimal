@@ -105,7 +105,7 @@ Reboot
 [B]Contributors:[/B]
 [URL="http://forum.xda-developers.com/member.php?u=4450732"]@CallMeAldy[/URL] - Lead Developer
 [URL="http://forum.xda-developers.com/member.php?u=3190122"]@KreAch3R[/URL] - Contributor
-[URL="http://forum.xda-developers.com/member.php?u=4954533"]@dark-falcon[/URL] - Contributor
+[URL="http://forum.xda-developers.com/member.php?u=4954533"]@DarkFalcon[/URL] - Contributor
 [URL="http://forum.xda-developers.com/member.php?u=3810143"]@Bgill55[/URL] - Contributor
 [URL="http://forum.xda-developers.com/member.php?u=5457003"]@USAN03[/URL] - Contributor
 @Maintainer's username - Maintainer
