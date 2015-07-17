@@ -100,7 +100,7 @@ Reboot
 [/CODE]
 
 [B]Google+:[/B] [URL="https://plus.google.com/communities/113231455842300304229"]Minimal OS Community[/URL]
-[B]Sources:[/B] [URL="https://github.com/MinimalOS"]MinimalOS Github[/URL]
+[B]ROM:[/B] [URL="https://github.com/MinimalOS"]MinimalOS Github[/URL] | [B]KERNEL:[/B] [URL="https://github.com/MinimalOS/URL OF THE KERNEL REPO/TREE"]MinimalOS DEVICE-BOARD[/URL]
 
 [B]Contributors:[/B]
 [URL="http://forum.xda-developers.com/member.php?u=4450732"]@CallMeAldy[/URL] - Lead Developer
