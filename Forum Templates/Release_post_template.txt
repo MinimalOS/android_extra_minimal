@@ -1,12 +1,7 @@
-XDA Forum template -
-
-For example - 
-
-
 Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
 
 
-[CENTER][INDENT][INDENT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/0eeff4e955aca2c8f8740731687c3943e0a3a2f2/PNGs/xda-header.png[/IMG][/INDENT][/INDENT]
+[CENTER][INDENT][INDENT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/PNGs/xda-header.png[/IMG][/INDENT][/INDENT]
 
 
 [B]Disclaimer:[/B]
@@ -26,12 +21,12 @@ Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
 [B]Features:[/B]
 
 Memory leak fixes and other fixes from AOSP.
-Layers 2.1 Support [Latest].
+Layers 2.1 Support.
 Notification Ticker.
 Statusbar Brightness Control.
 Show Notification Count.
 Double-tap Statubar or Navbar to sleep.
-Clock Customization [Left,Center,Right].
+Statusbar Clock Customization.
 Headsup Swipe.
 Battery Status Style.
 Privacy Guard.
@@ -45,14 +40,15 @@ Quick Pin Unlock.
 Gesture Unlock.
 Quick Settings.
 Quick Pulldown.
-Show Weather [It will be removed soon].
+Weather in Quick pulldown.
 Ability to disable Heads up.
 Force Expanded Notification.
 Advanced Reboot.
 Screen Record.
-Clear All Recents [Top right, Top left, Top center, Bottom right, Bottom left, Bottom center].
+Clear All Recents.
+Ability to adjust 'Clear recents' FAB.
 Show Search Bar in Recents Menu.
-LCD Density.
+LCD Density Customization.
 Navbar Customization.
 Navrings Customization.
 Re-Orient Volume Buttons.
@@ -76,22 +72,22 @@ Reboot
 
 [B] Screenshots: [/B]
 [HIDE]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/1.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/2.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/3.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/4.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/5.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/6.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/7.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/8.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/9.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/10.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/11.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/12.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/13.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/14.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/15.png[/IMG]
-[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/master/Screenshots/16.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/1.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/2.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/3.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/4.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/5.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/6.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/7.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/8.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/9.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/10.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/11.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/12.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/13.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/14.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/15.png[/IMG]
+[IMG]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/Screenshots/16.png[/IMG]
 [/HIDE]
 
 [B]Changelog:[/B] 
@@ -103,11 +99,11 @@ Reboot
 [B]ROM:[/B] [URL="https://github.com/MinimalOS"]MinimalOS Github[/URL] | [B]KERNEL:[/B] [URL="https://github.com/MinimalOS/URL OF THE KERNEL REPO/TREE"]MinimalOS DEVICE-BOARD[/URL]
 
 [B]Contributors:[/B]
-[URL="http://forum.xda-developers.com/member.php?u=4450732"]@CallMeAldy[/URL] - Lead Developer
-[URL="http://forum.xda-developers.com/member.php?u=3190122"]@KreAch3R[/URL] - Contributor
-[URL="http://forum.xda-developers.com/member.php?u=4954533"]@DarkFalcon[/URL] - Contributor
-[URL="http://forum.xda-developers.com/member.php?u=3810143"]@Bgill55[/URL] - Contributor
-[URL="http://forum.xda-developers.com/member.php?u=5457003"]@USAN03[/URL] - Contributor
+[URL="http://forum.xda-developers.com/member.php?u=4450732"]CallMeAldy[/URL] - Lead Developer
+[URL="http://forum.xda-developers.com/member.php?u=3190122"]KreAch3R[/URL] - Contributor
+[URL="http://forum.xda-developers.com/member.php?u=4954533"]DarkFalcon[/URL] - Contributor
+[URL="http://forum.xda-developers.com/member.php?u=3810143"]Bgill55[/URL] - Contributor
+[URL="http://forum.xda-developers.com/member.php?u=5457003"]USAN03[/URL] - Contributor
 @Maintainer's username - Maintainer
 
 [B]Credits:[/B]
