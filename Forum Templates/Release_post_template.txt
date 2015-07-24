@@ -1,4 +1,4 @@
-Thread name: [ROM][UB][AOSP 5.1.1] Minimal OS
+Thread name: [ROM][OFFICIAL][5.1.1][LAYERS][UBER] Minimal OS for -DEVICE-NAME-[BUILD -NUMBER-][YYYY-MM-DD]
 
 
 [CENTER][INDENT][INDENT][IMG="MinimalOS Logo"]https://raw.githubusercontent.com/MinimalOS/android_extra_minimal/lp-mr1/PNGs/xda-header.png[/IMG][/INDENT][/INDENT]
