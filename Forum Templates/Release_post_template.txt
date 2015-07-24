@@ -59,7 +59,7 @@ Battery Light Customization.
 LED Notification Customization.
 
 [B]Download:[/B] 
-[URL="ANDROIDFILEHOST URL OF YOUR ZIP"]CLICK HERE[/URL]
+[URL="https://builds.hubdroid.com/minimal/final/"]HubDroid[/URL]
 
 [B]How to install:[/B]
 
