@@ -66,8 +66,9 @@ LED Notification Customization.
 Download the ROM
 Copy the ROM to your SD Card
 Boot into recovery
-Install the ROM
 Wipe data, cache and dalvik cache
+Install the ROM
+Install Minimal [URL="https://builds.hubdroid.com/minimal/final/GApps/"]GApps[/URL]
 Reboot
 
 [B] Screenshots: [/B]
